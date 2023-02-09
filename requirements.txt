@@ -1,0 +1,5 @@
+pandas
+medspacy
+spacy
+sqlalchemy
+Levenshtein
